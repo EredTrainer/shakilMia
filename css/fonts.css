@@ -1,0 +1,19 @@
+@font-face {
+    font-family: abel;
+    src: url(../fonts/Abel/Abel-Regular.ttf)
+}
+
+@font-face {
+    font-family: anton;
+    src: url(../fonts/Anton/Anton-Regular.ttf)
+}
+
+@font-face {
+    font-family: lexend;
+    src: url(../fonts/Lexend_Deca/LexendDeca-Regular.ttf)
+}
+
+@font-face {
+    font-family: play;
+    src: url("../fonts/Play/Play-Regular.ttf")
+}
